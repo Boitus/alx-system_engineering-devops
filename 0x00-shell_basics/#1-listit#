@@ -1,0 +1,6 @@
+chmod u+x 1-listit
+
+#!/bin/bash
+ls
+
+
